@@ -1,14 +1,14 @@
 # Olá, eu sou o Jonathan Júnior ✌️
 - Sou um estudante de Ciência da Computação, até o momento, que está em busca de aperfeiçoar minhas habilidades de programação e adiquirir novas experiências com projetos simples e até desafiadores.
 - Passe para ver meus diretórios com todos os meus programas já feitos. Lá vocês podem contribuir a vontade😉.
-### Segue minhas redes sociais
+## 🌐 Segue minhas redes sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonhyyplay?igsh=cWVjN3hwdTI0dTFw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-j%C3%BAnior-a00aa3302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-## Status da minha conta 
+## 💭 Status da minha conta 
 ![Jonhyyplay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonhyyplay&show_icons=true&theme=dark)
 
-## Tecnologias já usadas por mim
+## 💻 Tecnologias já usadas por mim
 
 <div style = "display: inline_block"><br/>
     <img aling="center" alt="HTML"src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
