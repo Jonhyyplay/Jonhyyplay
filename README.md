@@ -6,14 +6,14 @@ Passe para ver meus diretórios com todos os meus programas já feitos, e passem
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-j%C3%BAnior-a00aa3302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ## 💻 Tecnologias já usadas por mim
 <div style = "display: inline_block"><br/>
-    <img aling="center" alt="HTML"src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=orange"/>
-    <img aling="center" alt="CSS"src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=rebeccapurple"/>
-    <img aling="center" alt="JavaScript"src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img aling="center" alt="Python"src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img aling="center" alt="C"src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img aling="center" alt="Java"src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img aling="center" alt="HTML" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+    <img aling="center" alt="CSS" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img aling="center" alt="JavaScript" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    <img aling="center" alt="Python" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    <img aling="center" alt="C" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+    <img aling="center" alt="Java" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
     <img aling="center" alt="Colab"src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
-    <img aling="center" alt="Visual Studio Code"src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    <img aling="center" alt="Visual Studio Code" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
 ## 💭 Status da minha conta 
