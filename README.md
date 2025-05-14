@@ -12,8 +12,8 @@ Passe para ver meus diretórios com todos os meus programas já feitos, e passem
     <img aling="center" alt="Python" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img aling="center" alt="C" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
     <img aling="center" alt="Java" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-    <img aling="center" alt="Colab"src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
     <img aling="center" alt="Visual Studio Code" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    <img aling="center" alt="Colab"src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
 </div>
 
 ## 💭 Status da minha conta 
