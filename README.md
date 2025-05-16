@@ -1,10 +1,15 @@
 ## 🌐 Olá, eu sou o Jonathan Júnior ✌️
-Sou um estudante de Ciência da Computação, até o momento, que está em busca de aperfeiçoar minhas habilidades de programação e adiquirir novas experiências com projetos simples e até desafiadores.
-Passe para ver meus diretórios com todos os meus programas já feitos, e passem também em minhas redes sociais 😉.
+Sou um estudante de Ciência da Computação em busca de aperfeiçoar minhas habilidades de programação (tanto back-end quanto front-end).
+
+Atuo na startup [Damas Tech](https://github.com/Damas-Tech) como desenvolvedor back end, no desenvolvimento de uma plataforma voltada no aprendizado e desenvolvimento profissional para mulheres no ramo da tecnologia.
+
+Venho buscando novos aprendizados, consolidando conhecimento em linguagens que venham a ser bastante utilizadas por mim, principalmente em Python (Google Colab e Jumptask). Além disso, busco aprimorar minhas habilidades com projetos pessoais e minhas soft skills para um melhor trabalho em equipe.
+
+Passe para ver meus diretórios e contribuir. Passem também em minhas redes sociais 😉:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonhyyplay?igsh=cWVjN3hwdTI0dTFw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-j%C3%BAnior-a00aa3302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-## 💻 Tecnologias já usadas por mim
+## 🧑‍💻 Linguagens já usadas por mim
 <div style = "display: inline_block"><br/>
     <img aling="center" alt="HTML" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
     <img aling="center" alt="CSS" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -12,9 +17,14 @@ Passe para ver meus diretórios com todos os meus programas já feitos, e passem
     <img aling="center" alt="Python" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img aling="center" alt="C" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
     <img aling="center" alt="Java" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+    </div>
+    
+## 💻 Editores/IDEs/Ambientes de código
+<div style = "display: inline_block"><br/>
     <img aling="center" alt="Visual Studio Code" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     <img aling="center" alt="Jupyter Notebook" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
     <img aling="center" alt="Colab"  height="30" width="45" src = "https://i.postimg.cc/Wz0qg77s/colab.webp"/>
+    <img aling="center" alt="Codepen"  height="30" width="45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original-wordmark.svg" />     
 </div>
 
 ## 💭 Status da minha conta 
