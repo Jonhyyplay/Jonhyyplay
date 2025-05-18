@@ -3,7 +3,7 @@ Sou um estudante de Ciência da Computação em busca de aperfeiçoar minhas hab
 
 Atuo na startup [Damas Tech](https://github.com/Damas-Tech) como desenvolvedor back end, no desenvolvimento de uma plataforma voltada no aprendizado e desenvolvimento profissional para mulheres no ramo da tecnologia.
 
-Venho buscando novos aprendizados, consolidando conhecimento em linguagens que venham a ser bastante utilizadas por mim, principalmente em Python (Google Colab e Jumptask). Além disso, busco aprimorar minhas habilidades com projetos pessoais e minhas soft skills para um melhor trabalho em equipe.
+Venho buscando novos aprendizados, consolidando conhecimento em linguagens que venham a ser bastante utilizadas por mim, principalmente em Python (Google Colab e Jupyter Notebook). Além disso, busco aprimorar minhas habilidades com projetos pessoais e minhas soft skills para um melhor trabalho em equipe.
 
 Passe para ver meus diretórios e contribuir. Passem também em minhas redes sociais 😉:
 
