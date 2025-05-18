@@ -23,8 +23,8 @@ Passe para ver meus diretórios e contribuir. Passem também em minhas redes soc
 <div style = "display: inline_block"><br/>
     <img aling="center" alt="Visual Studio Code" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     <img aling="center" alt="Jupyter Notebook" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-    <img aling="center" alt="Colab"  height="30" width="45" src = "https://i.postimg.cc/Wz0qg77s/colab.webp"/>
-    <img aling="center" alt="Codepen"  height="30" width="45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original-wordmark.svg" />     
+    <img aling="center" alt="Colab"  height="35" width="35" src = "https://img.icons8.com/color/48/google-colab.png"/>
+    <img aling="center" alt="Codepen" height="35" width="35" src = "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-shadow-tal-revivo.png"/>     
 </div>
 
 ## 💭 Status da minha conta 
