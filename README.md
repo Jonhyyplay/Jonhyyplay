@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=header"/>
+
 ## 🌐 Olá, eu sou o Jonathan Júnior ✌️
 Sou um estudante de Ciência da Computação em busca de aperfeiçoar minhas habilidades de programação (tanto back-end quanto front-end).
 
@@ -19,14 +21,17 @@ Passe para ver meus diretórios e contribuir. Passem também em minhas redes soc
     <img aling="center" alt="Java" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
     </div>
     
-## 💻 Editores/IDEs/Ambientes de código
+## 💻 Ambiente de Desenvolvimento
 <div style = "display: inline_block"><br/>
     <img aling="center" alt="Visual Studio Code" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     <img aling="center" alt="Jupyter Notebook" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
     <img aling="center" alt="Colab"  height="35" width="35" src = "https://img.icons8.com/color/48/google-colab.png"/>
-    <img aling="center" alt="Codepen" height="35" width="35" src = "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-shadow-tal-revivo.png"/>     
+    <img aling="center" alt="Codepen" height="35" width="35" src = "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-shadow-tal-revivo.png"/>
+    <img aling="center" alt="Git" height="40" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"/>
 </div>
 
 ## 💭 Status da minha conta 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonhyyplay&layout=pie&size_weight=0.5&count_weight=0.5&theme=dark&langs_count=10&hide_progress=true)
 ![Jonhyyplay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonhyyplay&show_icons=true&rank_icon=default&theme=dark&locale=pt-br&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=footer"/>
