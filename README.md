@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0058F3&height=120&section=header"/>
 
 ## 🌐 Olá, eu sou o Jonathan Júnior ✌️
 Sou um estudante de Ciência da Computação em busca de aperfeiçoar minhas habilidades de programação (tanto back-end quanto front-end).
@@ -34,4 +34,4 @@ Passe para ver meus diretórios e contribuir. Passem também em minhas redes soc
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonhyyplay&layout=pie&size_weight=0.5&count_weight=0.5&theme=dark&langs_count=10&hide_progress=true)
 ![Jonhyyplay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonhyyplay&show_icons=true&rank_icon=default&theme=dark&locale=pt-br&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0058F3&height=120&section=footer"/>
