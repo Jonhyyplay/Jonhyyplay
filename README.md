@@ -19,15 +19,17 @@ Passe para ver meus diretórios e contribuir. Passem também em minhas redes soc
     <img aling="center" alt="Python" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img aling="center" alt="C" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
     <img aling="center" alt="Java" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+    <img aling="center" alt="SQL" height="30" width="40" src =  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
     </div>
     
-## 💻 Ambiente de Desenvolvimento
+## 💻 Ambiente/Ferramentas de Desenvolvimento
 <div style = "display: inline_block"><br/>
     <img aling="center" alt="Visual Studio Code" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     <img aling="center" alt="Jupyter Notebook" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
     <img aling="center" alt="Colab"  height="35" width="35" src = "https://img.icons8.com/color/48/google-colab.png"/>
     <img aling="center" alt="Codepen" height="35" width="35" src = "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-shadow-tal-revivo.png"/>
     <img aling="center" alt="Git" height="40" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"/>
+    <img aling="center" alt="MySQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
 ## 💭 Status da minha conta 
