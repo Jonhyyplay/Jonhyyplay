@@ -44,7 +44,7 @@
 </div>
 
 ## 💭 Status da minha conta 
-![Top Langs](https://github-readme-stats-mezehqut4-jonathans-projects-cd4429a3.vercel.app/api/top-langs/?username=Jonhyyplay&layout=pie&size_weight=0.5&count_weight=0.5&theme=dark&langs_count=10&hide_progress=true&v=1)
-![Jonhyyplay's GitHub stats](https://github-readme-stats-mezehqut4-jonathans-projects-cd4429a3.vercel.app/api?username=Jonhyyplay&show_icons=true&rank_icon=default&theme=dark&locale=pt-br&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats-silk-beta.vercel.app/api/top-langs/?username=Jonhyyplay&layout=pie&size_weight=0.5&count_weight=0.5&theme=dark&langs_count=10&hide_progress=true&v=1)
+![Jonhyyplay's GitHub stats](https://github-readme-stats-silk-beta.vercel.app/api?username=Jonhyyplay&show_icons=true&rank_icon=default&theme=dark&locale=pt-br&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0058F3&height=120&section=footer"/>
