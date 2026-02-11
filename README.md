@@ -11,11 +11,8 @@
 
 👨‍💻 Focado em aperfeiçoar minhas habilidades Full-Stack.
 
-🚀 Atualmente, sou **Desenvolvedor Back-end** na startup **[Damas Tech](https://github.com/Damas-Tech)**, onde contribuo para o desenvolvimento de uma plataforma voltada para o aprendizado e crescimento profissional de mulheres para o ramo da tecnologia.
+😉 Passem também em minhas redes sociais!
 
-<div align="center">
-  Passem também em minhas redes sociais 😉!
-</div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonhyyplay?igsh=cWVjN3hwdTI0dTFw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-j%C3%BAnior-a00aa3302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
