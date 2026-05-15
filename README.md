@@ -9,7 +9,7 @@
 
 ### 💻 Desenvolvedor Back-end | Estudante de Ciência da Computação
 
-👨‍💻 Focado em aperfeiçoar minhas habilidades Full-Stack.
+👨‍💻 Focado em aperfeiçoar minhas habilidades.
 
 😉 Passem também em minhas redes sociais!
 
